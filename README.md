@@ -1,5 +1,6 @@
-### Hi there 👋
+## Hello World, I'm Lívia!! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
+Estudante em formação de Análise e Desenvolvimento de Sistemas e cursando bootcamp da **{reprograma}**, <strong>Generation</strong> como desenvolvedora back-end e full stack em Java e
 <!--
 **liviaoliveiraa/liviaoliveiraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
