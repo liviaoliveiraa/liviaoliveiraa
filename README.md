@@ -3,9 +3,8 @@
 
 Estudante em formação de Análise e Desenvolvimento de Sistemas e cursando bootcamp da **{reprograma}** e **Generation** como programadora back-end e full stack em Java.
 
-[Lívia Oliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=liviaoliveiraa&show_icons=true&theme=dark)
+[![Lívia Oliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=liviaoliveiraa)](https://github.com/liviaoliveiraa/github-readme-stats)
 
-[Lívia Oliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=liviaoliveiraa&show_icons=true&theme=dark)](https://github.com/liviaoliveiraa/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liviaoliveiraa&layout=compact)](https://github.com/liviaoliveiraa/github-readme-stats)
  
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/lívia-de-oliveira-almeida) 
