@@ -11,6 +11,6 @@ Estudante em formação de Análise e Desenvolvimento de Sistemas e cursando boo
 
 
 <a href="https://github.com/liviaoliveiraa">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=liviaoliveiraa&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=liviaoliveiraa&show_icons=true&theme=light&line_height=27" alt="Shubhamdeep's github stats"/>
 </a>
 
