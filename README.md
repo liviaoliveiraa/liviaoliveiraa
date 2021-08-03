@@ -9,3 +9,8 @@ Estudante em formação de Análise e Desenvolvimento de Sistemas e cursando boo
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/lívia-de-oliveira-almeida) 
 [![outlook](https://img.shields.io/badge/outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:livia.oliveira.almeida@hotmail.com)
 
+
+<a href="https://github.com/liviaoliveiraa">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=liviaoliveiraa&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
+</a>
+
