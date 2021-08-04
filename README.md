@@ -1,7 +1,7 @@
 ## Hello World, I'm Lívia!! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
 
-Estudante em formação de Análise e Desenvolvimento de Sistemas e cursando bootcamp da **{reprograma}** e **Generation** como programadora back-end e full stack em Java.
+Estudante em formação de Análise e Desenvolvimento de Sistemas e cursando bootcamp da **Generation** como programadora full stack em Java.
 
 <a href="https://github.com/liviaoliveiraa">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=liviaoliveiraa&show_icons=true&theme=light&line_height=27" alt="Shubhamdeep's github stats"/>
