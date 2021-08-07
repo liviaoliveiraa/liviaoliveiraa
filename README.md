@@ -4,9 +4,9 @@
 Estudante em formação de Análise e Desenvolvimento de Sistemas e cursando bootcamp da **Generation** como programadora full stack em Java.
 
 <a href="https://github.com/liviaoliveiraa">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=liviaoliveiraa&show_icons=true&theme=light&line_height=27" alt="Shubhamdeep's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=liviaoliveiraa&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
 </a><a href="https://github.com/liviaoliveiraa">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviaoliveiraa&theme=light&hide_langs_below=1" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviaoliveiraa&theme=dark&hide_langs_below=1" />
 </a>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/lívia-de-oliveira-almeida) 
